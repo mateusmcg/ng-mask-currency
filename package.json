@@ -1,5 +1,5 @@
 {
-  "name": "angular-currency-mask",
+  "name": "ng-mask-currency",
   "version": "1.0.0",
   "description": "Format an entire input as a currency.",
   "main": "index.js",
